@@ -136,6 +136,20 @@
     },
     {
       "type": "text",
+      "text": "Explore",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
+      "text": "more",
+      "image": "",
+      "mode": "light",
+      "color": false
+    },
+    {
+      "type": "text",
       "text": "Advertisements",
       "image": "",
       "mode": "light",
