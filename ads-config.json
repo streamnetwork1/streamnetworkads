@@ -65,8 +65,8 @@
   "contact": [
     {
       "label": "Email",
-      "value": "hello@example.com",
-      "url": ""
+      "value": "Contact Us",
+      "url": "mailto:streamnetwork.support+streamads@gmail.com"
     }
   ],
   "ads": [
