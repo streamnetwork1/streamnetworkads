@@ -19,7 +19,7 @@
     "image": "",
     "body": "",
     "points": "",
-    "glance": true
+    "glance": false
   },
   "adset": {
     "ended": true,
@@ -108,8 +108,8 @@
   "notifs": [
     {
       "id": "n1",
-      "title": "Welcome",
-      "body": "STREAM ADS is live."
+      "title": "Welcome to STREAM ADVERTISEMENT",
+      "body": "ow you in STREAM ADVERTISEMENT site. You can select any advertisements in our network"
     }
   ],
   "dotitems": [
