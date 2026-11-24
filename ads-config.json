@@ -83,7 +83,7 @@
       "details": "",
       "btn": "Learn more",
       "url": "https://example.com",
-      "on": true,
+      "on": false,
       "start": "2026-11-19T00:32",
       "end": "2026-11-21T12:10",
       "video": "https://www.youtube.com/watch?v=LJUm09Qa72A",
